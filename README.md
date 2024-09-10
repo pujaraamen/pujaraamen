@@ -119,7 +119,7 @@ pie
 ---
 
 ## 📫 **Connect with Me**
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- **Email:** [Your Email](mailto:your-email@example.com)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/amanpujara)
+- **Email:** [Your Email](pujaraamen2@example.com)
 
 Feel free to check out my repositories and projects. Let's collaborate and build something awesome together!
