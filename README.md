@@ -74,6 +74,6 @@ Developed modular PySpark ETL jobs orchestrated via AWS Glue and Airflow, proces
 ## 📫 **Connect with Me**
 
 - 💼 [LinkedIn – Aman Pujara](https://www.linkedin.com/in/amanpujara)
-- 📧 pujaraamen2@example.com
+- 📧 amanpujara2212@gmail.com
 
 Let’s collaborate and build the next-gen data platforms! 🔍☁️🛠️
