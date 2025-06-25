@@ -1,125 +1,79 @@
-# 👋 Hi, I'm Pujara Aman
+# 👋 Hi, I'm Aman Pujara
 
-I am a passionate DevOps engineer with experience in cloud services, automation, and system management. I have hands-on expertise in various DevOps tools and AWS services, and I am constantly learning and expanding my skill set. Here’s a brief overview of my technical skills, projects, and achievements.
+🚀 **Immediate Joiner | Big Data Engineer | Expert in Data Platforms & AWS Cloud**
 
----
-
-## 🛠️ **Technical Skills**
-
-### DevOps Tools:
-- **Version Control:** ![Git](https://github.com/pujaraamen/your-repository/blob/main/images/git-icon.png) Git
-- **CI/CD Pipelines:** ![Jenkins](https://github.com/pujaraamen/your-repository/blob/main/images/jenkins-icon.png) Jenkins
-- **Build Automation:** ![Maven](https://github.com/pujaraamen/your-repository/blob/main/images/maven-icon.png) Maven
-- **Automation:** ![Ansible](https://github.com/pujaraamen/your-repository/blob/main/images/ansible-icon.png) Ansible
-- **Configuration Management:** ![Chef](https://github.com/pujaraamen/your-repository/blob/main/images/chef-icon.png) Chef
-- **Containerization:** ![Docker](https://github.com/pujaraamen/your-repository/blob/main/images/docker-icon.png) Docker
-- **Container Orchestration:** ![Kubernetes](https://github.com/pujaraamen/your-repository/blob/main/images/kubernetes-icon.png) Kubernetes
-- **Virtualization:** ![VMware](https://github.com/pujaraamen/your-repository/blob/main/images/vmware-icon.png) VMware
-- **Monitoring:** ![Nagios](https://github.com/pujaraamen/your-repository/blob/main/images/nagios-icon.png) Nagios
-
-## ☁️ **Cloud Services**
-
-### AWS Services
-
-| Service        | Description                     |
-|----------------|---------------------------------|
-| EC2            | Virtual servers in the cloud     |
-| S3             | Scalable storage for static files|
-| VPC            | Virtual Private Cloud            |
-| AMI            | Amazon Machine Image             |
-| Auto Scaling   | Automatically scale resources    |
-| ELB            | Elastic Load Balancer            |
-| EBS            | Elastic Block Store              |
-| RDS            | Relational Database Service      |
-| Route 53       | Scalable DNS and domain name management |
-| IAM            | Identity and Access Management   |
-| Lambda         | Serverless compute service       |
-| CloudFront     | Content delivery network (CDN)   |
-| SNS            | Simple Notification Service      |
-| CloudWatch     | Monitoring and observability service |
-
-🐧 **Red Hat Linux**
-
-- **Booting Process**: ███████████████████████████████████████████████ 90%
-- **Data Management**: ██████████████████████████████████████████ 85%
-- **User Management**: █████████████████████████████████████████ 80%
-- **Group Management**: ████████████████████████████████████████ 75%
-- **Permissions Management**: ██████████████████████████████████████ 70%
-- **Umask**: █████████████████████████████████████ 65%
-- **ACL**: ████████████████████████████████████ 60%
-- **Disk Partition**: ████████████████████████████████ 55%
-- **LVM**: ███████████████████████████████ 50%
-- **Swap Partition**: █████████████████████████████ 45%
-- **Archive Files Management**: ██████████████████████████ 40%
-- **Network Management**: ███████████████████████ 35%
-- **Service and Package Management**: █████████████████████ 30%
-- **Task Scheduling**: ███████████████████ 25%
-- **NFS Server**: ████████████████ 20%
-- **Samba Server**: █████████████ 15%
-- **Apache Server**: ███████████ 10%
-- **FTP Server**: ███████ 5%
-- **SELinux Policy**: ███████████████████████████████████████████ 50%
-
-## 📈 **Skill Set Overview**
-
-```mermaid
-pie
-    title Technical Skills Distribution
-    "Git": 10
-    "Jenkins": 10
-    "Maven": 10
-    "Ansible": 10
-    "Chef": 10
-    "Docker": 10
-    "Kubernetes": 10
-    "VMware": 10
-    "Nagios": 10
-```
+I'm a Data Engineer with over **5 years of experience** in building scalable data pipelines, optimizing cloud infrastructure, and managing distributed big data platforms. I specialize in **AWS-based data ecosystems**, **Apache Hadoop**, **Spark**, and **orchestration tools like Airflow**. My focus is on delivering efficient data workflows for real-time and batch analytics.
 
 ---
 
-## 📚 **Projects**
+## 🛠️ **Technical Skill Set**
 
-### 1. **Automated Deployment of a Static Website on AWS**
-- **Description:** Set up an automated CI/CD pipeline for deploying a static website using Jenkins, Docker, and AWS services.
-- **Tools Used:** Git, Jenkins, Docker, AWS S3, CloudWatch
-- **Key Achievements:** Streamlined the deployment process, improving efficiency and consistency.
+### 🧠 Data Engineering
+![Spark](https://img.shields.io/badge/Apache%20Spark-F5C518?logo=apachespark&logoColor=white&style=for-the-badge)
+![Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?logo=apachehive&logoColor=black&style=for-the-badge)
+![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?logo=apachehadoop&logoColor=white&style=for-the-badge)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=white&style=for-the-badge)
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white&style=for-the-badge)
 
-### 2. **AWS Web Application Deployment**
-- **Description:** Deployed and managed a scalable web application using AWS EC2, RDS, and S3.
-- **Tools Used:** EC2, RDS, S3, CloudWatch
-- **Key Achievements:** Ensured high availability and optimized resource usage for cost efficiency.
+- **Batch & Stream Processing**: Spark (PySpark), Hive, Kafka, HDFS
+- **Orchestration**: Apache Airflow
+- **Ingestion**: NiFi, Sqoop, Glue
+- **Formats**: Parquet, ORC, JSON, CSV
+- **Languages**: Python, Shell (Bash)
 
-### 3. **Shell Script Automation for System Backup**
-- **Description:** Automated the backup process of system files using shell scripting.
-- **Tools Used:** Bash, Cron Jobs
-- **Key Achievements:** Improved system backup efficiency and reduced manual intervention.
+### ☁️ AWS Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)
 
-### 4. **Bluetooth Base Charge Control of Li-Po and Li-Ion Batteries**
-- **Description:** Built a Bluetooth-controlled circuit for battery management via an Android app.
-- **Tools Used:** MIT App Inventor, Bluetooth
-- **Key Achievements:** Enabled parameter-based charging control through an Android device.
+| Service     | Purpose |
+|-------------|---------|
+| ![EMR](https://img.shields.io/badge/EMR-blue?style=flat) EMR | Hadoop/Spark cluster on cloud |
+| ![S3](https://img.shields.io/badge/S3-orange?style=flat) S3 | Central data lake |
+| ![Athena](https://img.shields.io/badge/Athena-darkgreen?style=flat) Athena | SQL on S3 |
+| ![Glue](https://img.shields.io/badge/Glue-ff9900?style=flat) Glue | Serverless ETL & Data Catalog |
+| ![Lambda](https://img.shields.io/badge/Lambda-orange?style=flat) Lambda | Triggered processing |
+| ![EC2](https://img.shields.io/badge/EC2-grey?style=flat) EC2 | Compute for custom workloads |
+| ![IAM](https://img.shields.io/badge/IAM-darkblue?style=flat) IAM | Identity management |
+
+### 🐧 Linux & Automation
+![RedHat](https://img.shields.io/badge/Red%20Hat%20Linux-E00?logo=redhat&logoColor=white&style=for-the-badge)
+![Bash](https://img.shields.io/badge/Bash-121011?logo=gnubash&logoColor=white&style=for-the-badge)
+
+- RHEL, CentOS | Bash scripting | Cron | SSH | LVM | SELinux
+
+---
+
+## 📚 **Featured Projects**
+
+### 🚀 Hadoop to AWS EMR Migration
+Migrated on-prem Hadoop and Hive workloads to AWS EMR + S3, enabling scalable processing with lower cost.
+
+### ⚡ Real-Time Streaming Pipeline
+Built a Kafka → Spark Streaming → S3 → Athena data pipeline to process IoT metrics under 5s latency.
+
+### 🧱 Scalable ETL with PySpark & Glue
+Developed modular PySpark ETL jobs orchestrated via AWS Glue and Airflow, processing TBs of data daily.
 
 ---
 
 ## 🏆 **Certifications**
-- **AWS Solutions Architect - Associate**
-- **Red Hat Certified System Administrator (RHCSA)**
-- **Red Hat Certified Engineer (RHCE)**
-- **Cisco Certified Network Associate (CCNA)**
+
+![AWS](https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect%20–%20Associate-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)
+![RHCSA](https://img.shields.io/badge/RHCSA-EE0000?logo=redhat&logoColor=white&style=for-the-badge)
+![RHCE](https://img.shields.io/badge/RHCE-EE0000?logo=redhat&logoColor=white&style=for-the-badge)
+![CCNA](https://img.shields.io/badge/CCNA-1D9BF0?logo=cisco&logoColor=white&style=for-the-badge)
 
 ---
 
-## 📊 **GitHub Stats**
+## 📈 **GitHub Stats**
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pujaraamen&show_icons=true&theme=radical)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pujaraamen&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pujaraamen&layout=compact&theme=radical)
 
 ---
 
 ## 📫 **Connect with Me**
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/amanpujara)
-- **Email:** [Your Email](pujaraamen2@example.com)
 
-Feel free to check out my repositories and projects. Let's collaborate and build something awesome together!
+- 💼 [LinkedIn – Aman Pujara](https://www.linkedin.com/in/amanpujara)
+- 📧 pujaraamen2@example.com
+
+Let’s collaborate and build the next-gen data platforms! 🔍☁️🛠️
